@@ -1,3 +1,2 @@
 Hello,
-
-This is Raeshal Khurana & this is my first file for Git learning.
+this is raeshal
